@@ -1,0 +1,12 @@
+.DrumPad{
+  width: 29%;
+  height: 29%;
+  margin: 1%;
+  border-radius: 5%;
+  color: antiquewhite;
+  background-color: darkslategray;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "keyPress": "Q",
+    "name": "snare 1",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Snares/51[kb]ec-sn004.wav.mp3",
+    "keyCode": 81
+  },
+  {
+    "keyPress": "W",
+    "name": "snare 2",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Snares/50[kb]ec-sn018.wav.mp3",
+    "keyCode": 87
+  },
+  {
+    "keyPress": "E",
+    "name": "clap",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Claps/31[kb]Clap808.wav.mp3",
+    "keyCode": 69
+  },
+  {
+    "keyPress": "A",
+    "name": "hat 1",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/11[kb]chh.aif.mp3",
+    "keyCode": 65
+  },
+  {
+    "keyPress": "S",
+    "name": "hat 2",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Hats/23[kb]chh808.aif.mp3",
+    "keyCode": 83
+  },
+  {
+    "keyPress": "D",
+    "name": "effect",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Punches%20Hits%20Discoblasts/52[kb]scratchme.wav.mp3",
+    "keyCode": 68
+  },
+  {
+    "keyPress": "Z",
+    "name": "kick 1",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Kicks/38[kb]bigbassfoot-kick.wav.mp3",
+    "keyCode": 90
+  },
+  {
+    "keyPress": "X",
+    "name": "kick 2",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Kicks/152[kb]bigcheeks-kick.wav.mp3",
+    "keyCode": 88
+  },
+  {
+    "keyPress": "C",
+    "name": "effect2",
+    "sample": "https://sampleswap.org/samples-ghost/DRUMS%20(SINGLE%20HITS)/Punches%20Hits%20Discoblasts/41[kb]brass-hit-3.WAV.mp3",
+    "keyCode": 67
+  }
+]
